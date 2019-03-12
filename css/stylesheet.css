@@ -1,0 +1,55 @@
+.widget {
+    background-image: url(../images/wood-background.png);
+    font-family: 'Noto Sans', sans-serif;
+    color: #f9e5c7;
+}
+
+.logo img {
+    width: 80%;
+    height: auto;
+    margin-top: 2%;
+}
+
+.logo {
+    text-align: center;
+}
+
+.buy,
+.groceries {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 400%;
+}
+
+.question {
+    text-align: center;
+    font-size: 200%;
+}
+
+.form-control {
+    background-color: #d5d3d2;
+    border: none;
+    border-radius: 0px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+button {
+    background-color: #a5c3e1;
+    width: 100%;
+    color: black;
+    text-transform: uppercase;
+    border: none;
+    padding: 2%;
+}
+
+.error,
+li,
+.social {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.social {
+    font-size: 200%;
+}
